@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abawiile.github.io/sitemap_index.abawiile
